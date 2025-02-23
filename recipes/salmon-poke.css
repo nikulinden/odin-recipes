@@ -7,25 +7,25 @@ h1 {
     background-color: lightgray;
 }
 
-
-body {
-    background-color: lightyellow;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url(../assets/cooking-goulash.jpg);
-    background-size: cover;
-    background-attachment: fixed;
-}
-
 .header{
     text-align: center;
 }
 
+body {
+    background-color: lightyellow;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url(../assets/ocean.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 img {
     height: auto ;
-    width: 25%;
+    width: 30%;
     border:3px darkgrey solid;
     margin: 10px;
     text-align: center;
 }
+
 p {
     font-family: 'Courier New', Courier, monospace, sans-serif;
     font-size: 1rem;
@@ -47,4 +47,3 @@ h2{
     font-weight: 1000;
     text-align: center;
 }
-
