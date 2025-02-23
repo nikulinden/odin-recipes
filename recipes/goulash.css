@@ -1,0 +1,46 @@
+h1 {
+    color: rgb(13, 2, 53);
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-size: 3rem;
+    font-weight: 1000;
+    text-align: center;
+    background-color: lightgray;
+}
+
+
+body {
+    background-color: lightyellow;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url(../assets/cooking-goulash.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+img {
+    height: auto ;
+    width: 20%;
+    border:3px darkgrey solid;
+    margin: 10px;
+    text-align: center;
+
+p {
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-size: 1rem;
+    text-align: justify;
+    font-weight: 600;
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-size: 1rem;
+    text-align: justify;
+    font-weight: 550;
+}
+
+h2{
+    background-color: lightgray;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-size: 2rem;
+    font-weight: 1000;
+    text-align: center;
+}
+
